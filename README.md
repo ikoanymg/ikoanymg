@@ -1,10 +1,11 @@
 # ikoanymg
-Doctoral student in [The university of Tolyo](https://www.u-tokyo.ac.jp/en/index.html).  
+Doctoral student in [the university of Tolyo](https://www.u-tokyo.ac.jp/en/index.html).  
 Majoring in Photonics, Optical ranging.
 
 ## Links
-- [AtCoder](https://atcoder.jp/users/ikoanymg)
-- [CodinGame](https://www.codingame.com/profile/d6e97a4bcdec1d6c989ce7eade7d077d2458174)
+- [**AtCoder** - iloanymg](https://atcoder.jp/users/ikoanymg)
+- [**CodinGame** - ikoanymg](https://www.codingame.com/profile/d6e97a4bcdec1d6c989ce7eade7d077d2458174)
+- [**Kaggle** - ikoanymg](https://www.kaggle.com/ikoanymg)
 
 <!--
 **ikoanymg/ikoanymg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
