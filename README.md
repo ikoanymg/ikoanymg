@@ -1,5 +1,5 @@
 # ikoanymg
-Doctoral student in [The university of Tolyo](https://www.u-tokyo.ac.jp/en/index.html).
+Doctoral student in [The university of Tolyo](https://www.u-tokyo.ac.jp/en/index.html).  
 Majoring in Photonics, Optical ranging.
 
 ## Links
