@@ -1,4 +1,9 @@
-### Hi there 👋
+# ikoanymg
+Naoki Yamaguchi
+
+## Links
+- [AtCoder](https://atcoder.jp/users/ikoanymg)
+- [CodinGame](https://www.codingame.com/profile/d6e97a4bcdec1d6c989ce7eade7d077d2458174)
 
 <!--
 **ikoanymg/ikoanymg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
