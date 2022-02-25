@@ -1,6 +1,6 @@
 # ikoanymg
 Doctoral student in [the university of Tolyo](https://www.u-tokyo.ac.jp/en/index.html).  
-Majoring in Photonics, Optical ranging.
+Majoring in Fiber Photonics, Optical sensing.
 
 ## Links
 - [**AtCoder** - iloanymg](https://atcoder.jp/users/ikoanymg)
