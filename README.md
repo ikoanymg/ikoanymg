@@ -1,5 +1,5 @@
 # ikoanymg
-Doctoral student at [the university of Tolyo](https://www.u-tokyo.ac.jp/en/index.html).  
+PhD student at [the university of Tolyo](https://www.u-tokyo.ac.jp/en/index.html).  
 Majoring in Fiber Photonics, Optical sensing.
 
 ## Links
